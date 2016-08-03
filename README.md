@@ -1,0 +1,1 @@
+This project will demonstrate how we can use Apache Spark to recommend movies to a user. For this project, we will use a subset dataset of 100,000 ratings from 1000 users on 1700 movies from the movielens 100K stable benchmark rating dataset. 
